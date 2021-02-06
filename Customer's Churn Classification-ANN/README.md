@@ -1,7 +1,8 @@
 # Bank Customer's Churn Prediction
 Customer churn is an imperative issue that is frequently connected with the existing cycle of the business.In recent year, churn prediction is becoming a very important issue in Banking and telecom industry. In order to deal with this problem, the industry must recognize these customers before they churn. Therefore, developing a unique classifier that will predict future churns is vital.
-<br>
-This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer.
+
+## Overview
+This model is used to predict the fact whether the customer left the bank. The dataset is taken from Kaggle [Churn Modelling](https://www.kaggle.com/shubh0799/churn-modelling) credit to Shubham Kumar. It contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer.
 
 ### Summary about the features and their types in the dataset:
 
