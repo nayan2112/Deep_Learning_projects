@@ -20,3 +20,23 @@ This model is used to predict the fact whether the customer left the bank. The d
 12) IsActiveMember : Binary Flag for whether the customer is an active member with the bank or not
 13) EstimatedSalary : Estimated salary of the customer in Dollars
 14) Exited : Binary flag 1 if the customer closed account with bank and 0 if the customer is retained
+
+## Technical Aspect
+1) Exploratory Data Analysis using Python Libraries i.e., seaborn, plotly, matplotlib
+2) Model build on Artificial Neural Network
+3) Hyperparameter optimization using Keras Tuner
+Note: Code is available in this repo
+
+## Technologies used
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://i.imgur.com/gh8nX4U.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/)
+
+[<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://www.kindpng.com/picc/b/301/3012484.png" width=200>](https://aws.amazon.com/s3/) 
+
+[<img target="_blank" src="https://sentry-brand.storage.googleapis.com/sentry-logo-black.png" width=270>](https://www.sentry.io/) [<img target="_blank" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" width=100>](https://jquery.com/)
+
+## Credits
+Dataset: This dataset contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank
+Dataset Link: [Churn Modelling](https://www.kaggle.com/shubh0799/churn-modelling) Credit to Shubham Kumar.
