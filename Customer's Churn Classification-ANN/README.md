@@ -35,6 +35,6 @@ Note: Code is available in this repo
 [<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) [<img target="_blank" src="https://i.imgur.com/gh8nX4U.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/)
 
 ## Credits
-<ul>Dataset: This dataset contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank.</ul>
+Dataset: This dataset contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank.
 <br>
-<ul>Dataset Link: [Churn Modelling](https://www.kaggle.com/shubh0799/churn-modelling) Credit to <b>Shubham Kumar</b>.</ul>
+Dataset Link: [Churn Modelling](https://www.kaggle.com/shubh0799/churn-modelling) Credit to <b>Shubham Kumar</b>.
