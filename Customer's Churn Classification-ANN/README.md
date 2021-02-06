@@ -25,6 +25,7 @@ This model is used to predict the fact whether the customer left the bank. The d
 1) Exploratory Data Analysis using Python Libraries i.e., seaborn, plotly, matplotlib
 2) Model build on Artificial Neural Network
 3) Hyperparameter optimization using Keras Tuner
+<br>
 Note: Code is available in this repo
 
 ## Technologies used
